@@ -1,4 +1,4 @@
-from Veiculo import Veiculo
+from Códigos.Veiculo import Veiculo
 
 class Moto(Veiculo):
     def __init__(self, marca, modelo, placa, ano, cilindradas):

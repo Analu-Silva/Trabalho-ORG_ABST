@@ -1,4 +1,4 @@
-from Veiculo import Veiculo
+from Códigos.Veiculo import Veiculo
 class Caminhão(Veiculo):
     def __init__(self, marca, modelo, placa, ano, n_portas, capacidade):
         super().__init__(marca, modelo, placa, ano)

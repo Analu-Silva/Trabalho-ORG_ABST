@@ -1,4 +1,4 @@
-from Veiculo import Veiculo
+from Códigos.Veiculo import Veiculo
 from Carro import Carro
 from Moto import Moto
 from Caminhão import Caminhão
